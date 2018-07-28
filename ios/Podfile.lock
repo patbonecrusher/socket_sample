@@ -1,0 +1,24 @@
+PODS:
+  - Socket.IO-Client-Swift (13.2.1):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.5)
+  - VPSocketIO (1.0.5)
+
+DEPENDENCIES:
+  - Socket.IO-Client-Swift (~> 13.2.1)
+  - VPSocketIO (~> 1.0.5)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Socket.IO-Client-Swift
+    - Starscream
+    - VPSocketIO
+
+SPEC CHECKSUMS:
+  Socket.IO-Client-Swift: b94943e2fb916fe2f95244b9ed21828634002280
+  Starscream: faf918b2f2eff7d5dd21180646bf015a669673bd
+  VPSocketIO: 28b685efb13ad866c0d27077a57d335bae5649ce
+
+PODFILE CHECKSUM: 87aace96bb1d4e50ec53169091286baa368799f4
+
+COCOAPODS: 1.5.3
